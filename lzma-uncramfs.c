@@ -12,6 +12,7 @@
 //#include <stdlib.h>
 #include <string.h>
 #include <assert.h>
+#include <sys/sysmacros.h>
 
 // Unix things
 #include <unistd.h>
